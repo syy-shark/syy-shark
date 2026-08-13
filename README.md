@@ -17,7 +17,7 @@
   </p>
 
 
-  <img src="https://streak-stats.demolab.com/?user=syy-shark&theme=radical&hide_border=true&background=050814&ring=7cf6ff&fire=4aa8ff&currStreakLabel=7cf6ff" alt="GitHub streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syy-shark&theme=github_dark" alt="GitHub profile summary" />
 
 
   <br/>
