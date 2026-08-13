@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0b1b33,100:061018&height=180&section=header&text=SHARK&fontSize=72&fontColor=7cf6ff&fontAlignY=38&desc=macOS%20%C2%B7%20building%20in%20public&descAlignY=62&descSize=16" width="100%"/>
+  <img src="./starfield-header.svg" width="100%" alt="SHARK · macOS · building in public"/>
 
 
   <h3>Open Source</h3>
@@ -17,8 +17,8 @@
   </p>
 
 
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=syy-shark&theme=radical&hide_border=true&background=050814&ring=7cf6ff&fire=4aa8ff&currStreakLabel=7cf6ff" alt="GitHub streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syy-shark&bg_color=02040a&color=7cf6ff&line=4aa8ff&point=8b6cff&area=true&hide_border=true" width="100%" alt="Shark's contribution graph"/>
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,100:050814&height=90&section=footer" alt=""/>
+  <img src="./starfield-footer.svg" width="100%" alt=""/>
 </div>
