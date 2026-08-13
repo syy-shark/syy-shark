@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/OS-macOS-0b1b33?style=for-the-badge&logo=apple&logoColor=7cf6ff" alt="macos"/>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=syy-shark&show_icons=true&theme=radical&hide_border=true&bg_color=050814&title_color=7cf6ff&icon_color=7cf6ff&text_color=c9f6ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syy-shark&layout=compact&theme=radical&hide_border=true&bg_color=050814&title_color=7cf6ff&text_color=c9f6ff" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=syy-shark&theme=radical&hide_border=true&background=050814&ring=7cf6ff&fire=4aa8ff&currStreakLabel=7cf6ff" />
 
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syy-shark&bg_color=050814&color=7cf6ff&line=4aa8ff&point=8b6cff&area=true&hide_border=true" width="100%"/>
