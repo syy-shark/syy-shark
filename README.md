@@ -20,14 +20,5 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=syy-shark&theme=radical&hide_border=true&background=050814&ring=7cf6ff&fire=4aa8ff&currStreakLabel=7cf6ff" alt="GitHub streak stats" />
 
 
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syy-shark&theme=github_dark" height="160" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syy-shark&theme=github_dark" height="160" alt="Top languages"/>
-
-
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syy-shark&bg_color=050814&color=7cf6ff&line=4aa8ff&point=8b6cff&area=true&hide_border=true" width="100%" alt="Shark's contribution graph"/>
-
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,100:050814&height=90&section=footer" alt=""/>
 </div>
