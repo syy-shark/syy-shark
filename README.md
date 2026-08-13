@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,50:0b1b33,100:061018&height=180&section=header&text=SHARK&fontSize=72&fontColor=7cf6ff&fontAlignY=38&desc=macOS%20%C2%B7%20building%20in%20public&descAlignY=62&descSize=16" width="100%"/>
 
 
-  <h3>TypeScript · desktop AI · open source</h3>
+  <h3>Open Source</h3>
 
 
   <p>
