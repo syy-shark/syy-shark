@@ -17,7 +17,12 @@
   </p>
 
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syy-shark&theme=github_dark" alt="GitHub profile summary" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=syy-shark&theme=radical&hide_border=true&background=050814&ring=7cf6ff&fire=4aa8ff&currStreakLabel=7cf6ff" alt="GitHub streak stats" />
+
+
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syy-shark&theme=github_dark" height="160" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syy-shark&theme=github_dark" height="160" alt="Top languages"/>
 
 
   <br/>
